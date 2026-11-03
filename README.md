@@ -13,7 +13,6 @@ Key outputs:
 ## 📁 Project Structure
 ```
 county-health-analysis/
-🔸
 ├── code/                    # Code files for the project
 │   └── code.py              # Main Python script
 │
@@ -56,8 +55,7 @@ pip install -r requirements.txt
 ---
 
 ## 🚀 Running the Program
-1. Place the dataset file (`2018 County Health Rankings Data.xlsx`) in the `data/` folder.
-2. Execute the `code.py` script:
+The repository already includes the dataset as `data/data.xlsx`. From the repository root, execute:
 ```bash
 python code/code.py
 ```
@@ -94,8 +92,8 @@ pip install -r requirements.txt
 ---
 
 ## 👩‍💻 Author
-**Bita Nasserfarahmand**  
-- [Email](mailto:bita.nf@gmail.com)  
+**Bita Nasserfarahmand**
+
 - [LinkedIn](https://linkedin.com/in/bita-farahmand-58363a232/)
 
-Feel free to contribute or reach out with questions!
+Questions and feedback are welcome through GitHub Issues.
