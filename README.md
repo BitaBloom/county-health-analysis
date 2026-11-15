@@ -94,6 +94,6 @@ pip install -r requirements.txt
 ## 👩‍💻 Author
 **Bita Nasserfarahmand**
 
-- [LinkedIn](https://linkedin.com/in/bita-farahmand-58363a232/)
+- [LinkedIn](https://www.linkedin.com/in/bita-nasserfarahmand-58363a232/)
 
 Questions and feedback are welcome through GitHub Issues.
